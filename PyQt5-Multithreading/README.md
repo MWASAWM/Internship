@@ -8,3 +8,7 @@
 
 ### Image
 
+![](<https://github.com/MWASAWM/Internship/blob/master/README_IMAGE/multithreading.jpg>)
+
+![](<https://github.com/MWASAWM/Internship/blob/master/README_IMAGE/Capture.jpg>)
+
